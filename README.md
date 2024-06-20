@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zzz12138zz)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1964642670@qq.com)
 [![](https://img.shields.io/badge/CSDN-BabyQQQQQ-blue.svg)](https://blog.csdn.net/BabyQQQQQ)
-![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
+![Profile views](https://views.whatilearened.today/views/github/Zzz12138zz/views.svg)
 
 
 ![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
@@ -35,7 +35,7 @@
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 ![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Zzz12138zz&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zzz12138zz&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Zzz12138zz&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Zzz12138zz's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zzz12138zz&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
 
 <!--
