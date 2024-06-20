@@ -8,7 +8,7 @@
 
 - 🤔这里是Zzz的主页
 
-- ⚡ Fun fact:喜欢听音乐和稀奇古怪的东西
+- ⚡喜欢听音乐和稀奇古怪的东西
 
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
