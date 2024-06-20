@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="center">👋 Hey! I'm Zzz. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
@@ -7,9 +6,9 @@
 
 - 🔭你好呀！💡
 
-- 🤔这里是忆阳的大象耳朵，会点小爬虫，想做一个有意思的前端工程师
+- 🤔这里是Zzz的主页
 
-- ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
+- ⚡ Fun fact:喜欢听音乐和稀奇古怪的东西
 
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
@@ -42,10 +41,10 @@
 #### Top Repositories
 
 
-<a href="https://github.com/Xuenew/PyTopicsApiExplore">
+<a href="https://github.com/Zzz12138zz/PyTopicsApiExplore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zzz12138zz&repo=PyTopicsApiExplore&theme=buefy" />
 </a>
-<a href="https://github.com/Xuenew/Python_Spider_All">
+<a href="https://github.com/Zzz12138zz/Python_Spider_All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zzz12138zz&repo=Python_Spider_All&theme=buefy" />
 </a>
 
