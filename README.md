@@ -1,5 +1,6 @@
 ## Hi there 👋
-![image](https://github.com/Zzz12138zz/Zzz12138zz/assets/161719078/44a7a8c9-7e73-4da1-8392-4133bc175c56)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzz12138zz)
+
 
 
 <!--
