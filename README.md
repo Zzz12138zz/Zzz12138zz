@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 align="center">👋 Hey! I'm Xuenew. 🐘</h2>
+<h2 align="center">👋 Hey! I'm Zzz. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
@@ -14,9 +14,9 @@
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuenew)
-[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1287986063@qq.com)
-[![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zzz12138zz)
+[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1964642670@qq.com)
+[![](https://img.shields.io/badge/CSDN-BabyQQQQQ-blue.svg)](https://blog.csdn.net/BabyQQQQQ)
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
 
 
@@ -43,10 +43,10 @@
 
 
 <a href="https://github.com/Xuenew/PyTopicsApiExplore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=PyTopicsApiExplore&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zzz12138zz&repo=PyTopicsApiExplore&theme=buefy" />
 </a>
 <a href="https://github.com/Xuenew/Python_Spider_All">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=Python_Spider_All&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zzz12138zz&repo=Python_Spider_All&theme=buefy" />
 </a>
 
 
